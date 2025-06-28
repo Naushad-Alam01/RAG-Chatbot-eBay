@@ -1,6 +1,7 @@
 # 📄 RAG Chatbot for eBay User Agreement — Amlgo Labs Assignment
 
 ## 🚀 Project Overview
+
 This is an AI-powered chatbot capable of answering user queries based on the eBay User Agreement document. It uses a Retrieval-Augmented Generation (RAG) pipeline with a vector database and a language model (LLM).
 
 The chatbot supports real-time streaming responses via a Streamlit interface and retrieves information grounded in the provided document.
@@ -8,6 +9,7 @@ The chatbot supports real-time streaming responses via a Streamlit interface and
 ---
 
 ## 🛠️ Tech Stack
+
 - **Embedding Model:** `all-MiniLM-L6-v2`
 - **LLM:** `google/flan-t5-large`
 - **Vector Database:** FAISS
@@ -17,6 +19,7 @@ The chatbot supports real-time streaming responses via a Streamlit interface and
 ---
 
 ## ✅ Features
+
 - 🔍 Document-aware, accurate answers
 - 🔗 Shows source text chunks used for generating the answer
 - 🧠 Memory of chat history during the session
@@ -34,7 +37,6 @@ RAG-Chatbot-eBay/
 ├── app.py → Streamlit chatbot app
 ├── requirements.txt → Python dependencies
 └── README.md → Project documentation
-
 
 ---
 
@@ -106,3 +108,7 @@ This project is created as part of the Amlgo Labs Junior AI Engineer assignment.
 Naushad Alam
 Email: naushadlil01@gmail.com
 GitHub: github.com/Naushad-Alam01
+
+
+
+```
