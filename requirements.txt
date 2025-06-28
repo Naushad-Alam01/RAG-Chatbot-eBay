@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+nltk
+transformers
+streamlit
+python-docx
+numpy
